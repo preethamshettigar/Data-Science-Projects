@@ -10,5 +10,5 @@ The dataset used for this project was sourced from: https://www.kaggle.com/datas
 ### Objective
 
 In this notebook, we will explore the steps in 2 parts 
-- classification for predicting if a claim has occured
-- regression for predicting the value of a claim assuming a claim has been made.
+- **Classification** for predicting if a claim has occured
+- **Regression** for predicting the value of a claim assuming a claim has been made.
